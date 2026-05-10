@@ -12,7 +12,7 @@ But remember, learning is not just about acquiring new skills—it's also about 
 
 To get started, launch SQL Server Management Studio (SSMS), available from the Start Menu, task bar, or desktop. Then connect to the SQL Server 2025 instance that has been provisioned for you by the instructor. This is configured as the default instance with Windows Authentication, so you just need to click **Connect** when the Connect dialog appears.
 
-Once connected, expand the **Databases** node in Object Explorer. You should see the **AdventureWorks2022** sample database, which is provided for use with the AI labs in this workshop. You should also find an empty **HolDb** database for use with many of the other labs.
+Once connected, expand the **Databases** node in Object Explorer. You should see the **AdventureWorks2025** sample database, which is provided for use with the AI labs in this workshop. You should also find an empty **HolDb** database for use with many of the other labs.
 
 ___
 
