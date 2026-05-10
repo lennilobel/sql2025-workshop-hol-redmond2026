@@ -15,7 +15,7 @@ This hands-on lab walks you through the new JSON features introduced in SQL Serv
 
 At long last, SQL Server Management Studio (SSMS) 22 allows you to view JSON data in a formatted, human-readable way. When you run a query that returns JSON data, SSMS renders the JSON as a hyperlink. Clicking the hyperlink opens a new tab within SSMS that displays the JSON in a nicely formatted expandable and collapsible structure, making it much easier to read and understand JSON results.
 
-You'll get to experience this improved JSON formatting in SSMS 22 throughout the labs in this module, starting with the very next lab where we explore the new native `json` data type. This enhancement significantly improves the developer experience when working with JSON data in SQL Server, allowing you to easily inspect and analyze JSON results directly within SSMS without needing to copy and paste into external tools for formatting.
+You'll get to experience this improved JSON formatting in SSMS 22 throughout the labs in this module. This enhancement significantly improves the developer experience when working with JSON data in SQL Server, without needing to copy and paste into external tools for formatting.
 
 ___
 
