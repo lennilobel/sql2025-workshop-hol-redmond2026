@@ -11,20 +11,11 @@ This hands-on lab walks you through the new JSON features introduced in SQL Serv
 * JSON aggregates for building JSON arrays and objects across rows
 * The new `JSON_CONTAINS` function for containment checks
 
-## JSON Formatter
+## JSON Formatting in SSMS 22
 
-SQL Server Management Studio (SSMS) displays raw JSON that can be hard to read. To improve readability, you can use the JSON Formatter utility. This online tool formats JSON strings returned by SQL queries into a more human-friendly format, making it easier to view the data structure than it is in SSMS.
+At long last, SQL Server Management Studio (SSMS) 22 allows you to view JSON data in a formatted, human-readable way. When you run a query that returns JSON data, SSMS renders the JSON as a hyperlink. Clicking the hyperlink opens a new tab within SSMS that displays the JSON in a nicely formatted expandable and collapsible structure, making it much easier to read and understand JSON results.
 
-### Try it out
-
-* Right-click https://jsonformatter.org and choose **Open link in new tab**.
-* Copy the following JSON string and paste it into the input box on the JSON Formatter page opened in the new tab:
-   ```json
-   {"name":"John","age":30,"city":"New York","hobbies":["reading","traveling","swimming"]}
-   ```
-* Observe how the tool formats the JSON string into a more readable structure.
-
-It's recommended that you keep this tool open while working through the JSON labs for easy access to format and view JSON data.
+You'll get to experience this improved JSON formatting in SSMS 22 throughout the labs in this module, starting with the very next lab where we explore the new native `json` data type. This enhancement significantly improves the developer experience when working with JSON data in SQL Server, allowing you to easily inspect and analyze JSON results directly within SSMS without needing to copy and paste into external tools for formatting.
 
 ___
 
