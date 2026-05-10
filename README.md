@@ -8,7 +8,7 @@ Get ready to dive into the exciting new features of SQL Server 2025, including A
 
 All required resources have been provisioned for you in Azure by your instructor. This includes:
 
-* Windows 11 Virtual Machine (VM) with:
+* Windows 11 Professional Virtual Machine (VM) with:
   * SQL Server 2025 Enterprise Developer Edition
   * SQL Server Management Studio (SSMS) 22
   * Visual Studio 2026 Community Edition
