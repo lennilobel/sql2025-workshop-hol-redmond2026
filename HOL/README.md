@@ -16,4 +16,4 @@ Once connected, expand the **Databases** node in Object Explorer. You should see
 
 ___
 
-▶ [T-SQL Enhancements](https://github.com/lennilobel/sql2025-workshop-hol-orlando2025/tree/main/HOL/1.%20T-SQL%20Enhancements)
+▶ [T-SQL Enhancements](https://github.com/lennilobel/sql2025-workshop-hol-redmond2026/tree/main/HOL/1.%20T-SQL%20Enhancements)

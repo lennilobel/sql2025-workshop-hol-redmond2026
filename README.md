@@ -25,4 +25,4 @@ All registered attendees should have received an email with connection details f
 
 Ready to dive in?
 
-▶ [Let's get started!](https://github.com/lennilobel/sql2025-workshop-hol-orlando2025/blob/main/HOL)
+▶ [Let's get started!](https://github.com/lennilobel/sql2025-workshop-hol-redmond2026/blob/main/HOL)

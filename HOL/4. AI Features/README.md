@@ -16,4 +16,4 @@ Together, these features transform SQL Server into an AI-powered data platform c
 
 ___
 
-▶ [Lab: Vector Search](https://github.com/lennilobel/sql2025-workshop-hol-orlando2025/blob/main/HOL/4.%20AI%20Features/1.%20Vector%20Search.md)
+▶ [Lab: Vector Search](https://github.com/lennilobel/sql2025-workshop-hol-redmond2026/blob/main/HOL/4.%20AI%20Features/1.%20Vector%20Search.md)

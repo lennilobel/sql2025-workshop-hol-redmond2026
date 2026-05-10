@@ -28,4 +28,4 @@ It's recommended that you keep this tool open while working through the JSON lab
 
 ___
 
-▶ [Lab: Native JSON Data Type](https://github.com/lennilobel/sql2025-workshop-hol-orlando2025/blob/main/HOL/2.%20JSON%20Support/1.%20Native%20JSON%20Data%20Type.md)
+▶ [Lab: Native JSON Data Type](https://github.com/lennilobel/sql2025-workshop-hol-redmond2026/blob/main/HOL/2.%20JSON%20Support/1.%20Native%20JSON%20Data%20Type.md)

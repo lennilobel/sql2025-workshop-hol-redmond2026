@@ -19,4 +19,4 @@ Separately, your instructor has also provided you with the SAS token and connect
 
 ___
 
-▶ [Lab: Create the Sample CES Database](https://github.com/lennilobel/sql2025-workshop-hol-orlando2025/blob/main/HOL/3.%20Change%20Event%20Streaming/1.%20Create%20the%20Sample%20CES%20Database.md)
+▶ [Lab: Create the Sample CES Database](https://github.com/lennilobel/sql2025-workshop-hol-redmond2026/blob/main/HOL/3.%20Change%20Event%20Streaming/1.%20Create%20the%20Sample%20CES%20Database.md)

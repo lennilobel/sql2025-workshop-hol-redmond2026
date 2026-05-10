@@ -700,4 +700,4 @@ You have successfully built a **Retrieval-Augmented Generation (RAG) AI assistan
 This approach can be expanded to other domains (legal, medical, finance, etc.), enabling intelligent search experiences over any structured data you store in SQL Server.  
 ___
 
-▶ [Lab: Vector Utility Functions](https://github.com/lennilobel/sql2025-workshop-hol-orlando2025/blob/main/HOL/4.%20AI%20Features/3.%20Vector%20Utility%20Functions.md)
+▶ [Lab: Vector Utility Functions](https://github.com/lennilobel/sql2025-workshop-hol-redmond2026/blob/main/HOL/4.%20AI%20Features/3.%20Vector%20Utility%20Functions.md)
